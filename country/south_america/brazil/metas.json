@@ -1,0 +1,222 @@
+[
+  {
+    "image": "Brazil_License_Plate.png",
+    "descriptions": [
+      {
+        "description": "🚗 Brazil’s license plates were plain white till 2018. Now they rock a white plate with a blue stripe on top. Red ones? For working rides only. You got this?",
+        "yes": "Yep! Plate facts locked in.",
+        "no": "Wait, red means work? Whoa."
+      },
+      {
+        "description": "🔵 Blue stripe on white plates = Brazil. Red plates mean busy vehicles. Remember or forget?",
+        "yes": "Remember for sure!",
+        "no": "Forget, my brain’s full."
+      },
+      {
+        "description": "🚘 White plates got a glow-up with a blue stripe. Red ones? Hustler’s badge. You keep or toss this?",
+        "yes": "Keep it, red means hustle!",
+        "no": "Tossed. Too much info."
+      }
+    ]
+  },
+  {
+    "image": "Portuguese.png",
+    "descriptions": [
+      {
+        "description": "🇧🇷 Brazil talks Portuguese, not Spanish. It’s -ão, not -ón, and -nh, not ñ. You got this or nah?",
+        "yes": "Yup! Portuguese all the way.",
+        "no": "Wait, not Spanish? Whoa!"
+      },
+      {
+        "description": "🗣️ In Brazil, it’s -ão instead of -ón. They say -ch, not -ll. Portuguese rules here. You remember this?",
+        "yes": "For sure, got it!",
+        "no": "Nope, brain’s empty."
+      },
+      {
+        "description": "🌍 Most of Latin America speaks Spanish. Brazil? Portuguese, with its cool -ão and -nh endings. Stuck in your head?",
+        "yes": "Yep! That’s easy to remember.",
+        "no": "Uh, I’m lost already."
+      }
+    ]
+  },
+  {
+    "image": "ladder.png",
+    "descriptions": [
+      {
+        "description": "🪜 See a pole that looks like a ladder? That’s Brazil’s style. You got it?",
+        "yes": "Yeah, can’t miss it now.",
+        "no": "What pole? Didn’t see it."
+      },
+      {
+        "description": "📏 Tall, rectangle poles with holes and ladder vibes = Brazil. Cool or nah? You’ll remember?",
+        "yes": "Yes! Weird poles are cool.",
+        "no": "Poles all look the same to me."
+      },
+      {
+        "description": "👀 Ladder poles are a classic in Brazil. Spot them down low. You’ll notice?",
+        "yes": "Yep, stuck in my mind.",
+        "no": "Nope, poles are poles."
+      }
+    ]
+  },
+  {
+    "image": "Black+sign+back.png",
+    "descriptions": [
+      {
+        "description": "⚫ Most Brazilian road signs got black painted backs. Not the usual, huh? You see this or nah?",
+        "yes": "Yeah, noticed that for sure.",
+        "no": "Nope, didn’t catch that."
+      },
+      {
+        "description": "🛑 Back of signs = black in Brazil. Weird flex? Remember or forget?",
+        "yes": "Remember it easy.",
+        "no": "Forget, no big deal."
+      },
+      {
+        "description": "🚧 Sign backs painted black is Brazil’s thing. You keep this detail?",
+        "yes": "Yep, keep it in mind.",
+        "no": "Nah, that’s forgettable."
+      }
+    ]
+  },
+  {
+    "image": "blue.png",
+    "descriptions": [
+      {
+        "description": "🔵 Blue road markers with numbers and kilometres show up on Brazil’s roadsides. You spot those or nah?",
+        "yes": "Yup, seen them plenty.",
+        "no": "Nope, missed those."
+      },
+      {
+        "description": "🛣️ Blue signs with road numbers and kms are a Brazil thing. Remember this detail?",
+        "yes": "Got it, easy to spot.",
+        "no": "Forget it, not important."
+      },
+      {
+        "description": "🚦 Blue markers on road edges with numbers? That’s Brazil. Keep or toss?",
+        "yes": "Keep it, cool detail.",
+        "no": "Toss it, don’t care."
+      }
+    ]
+  },
+  {
+    "image": "Untitled_design32.png",
+    "descriptions": [
+      {
+        "description": "⬛ Brazil uses yellow on black chevrons — opposite to most South America who do black on yellow. You see the difference?",
+        "yes": "Yep, noticed that switch.",
+        "no": "No, that’s new info."
+      },
+      {
+        "description": "⚠️ Yellow on black chevrons are Brazil’s style. Weird flip, right? Remember this?",
+        "yes": "For sure, it sticks.",
+        "no": "Forget, looks the same."
+      },
+      {
+        "description": "🚧 Brazil’s chevrons = yellow on black, not black on yellow like others. You keep or toss?",
+        "yes": "Keep it, that’s cool.",
+        "no": "Tossed, don’t care much."
+      }
+    ]
+  },
+  {
+    "image": "doubleyellow.png",
+    "descriptions": [
+      {
+        "description": "🛣️ Roads in Brazil usually have double yellow lines in the middle and white lines outside. Sometimes just a single dashed yellow. You got this?",
+        "yes": "Yup, double yellows noted.",
+        "no": "Nope, missed that."
+      },
+      {
+        "description": "🚧 Double yellow lines = Brazil roads. White on the edges. Single dashed sometimes too. Remember this?",
+        "yes": "Remembered, easy.",
+        "no": "Forget it, no biggie."
+      },
+      {
+        "description": "🟡 Yellow lines in pairs are Brazil’s road thing. White edges outside. You keep or toss this?",
+        "yes": "Keep it, simple and clear.",
+        "no": "Tossed, don’t care."
+      }
+    ]
+  },
+  {
+    "image": "whitekerbs.png",
+    "descriptions": [
+      {
+        "description": "⚪ White painted kerbs show up a lot on Brazilian roads. You noticed that?",
+        "yes": "Yeah, seen that plenty.",
+        "no": "No, didn’t catch it."
+      },
+      {
+        "description": "🛣️ White kerbs are common in Brazil. Remember this detail?",
+        "yes": "Got it, easy to spot.",
+        "no": "Forget it, not important."
+      },
+      {
+        "description": "🚧 White painted kerbs are Brazil’s thing. Keep or toss?",
+        "yes": "Keep it, cool detail.",
+        "no": "Toss it, don’t care."
+      }
+    ]
+  },
+  {
+    "image": "redtile.png",
+    "descriptions": [
+      {
+        "description": "🏠 Lots of Brazilian houses have orange tiled roofs. You got this roof style down?",
+        "yes": "Yup, orange roofs locked in.",
+        "no": "Nope, didn’t notice."
+      },
+      {
+        "description": "🏡 Orange roof tiles are a Brazil classic. Remember this or nah?",
+        "yes": "For sure, easy to spot.",
+        "no": "Nah, forgot already."
+      },
+      {
+        "description": "🧱 Orange tiles on roofs? Brazilian vibe. Keep or toss?",
+        "yes": "Keep it, cool detail.",
+        "no": "Tossed, don’t care."
+      }
+    ]
+  },
+  {
+    "image": "transparentdish.png",
+    "descriptions": [
+      {
+        "description": "📡 Transparent satellite dishes are pretty common in Brazil — kinda unique in Latin America. You noticed this?",
+        "yes": "Yeah, that’s pretty wild.",
+        "no": "Nope, never seen that."
+      },
+      {
+        "description": "🛰️ Clear satellite dishes? Brazil’s thing, not usual in Latin America. Remember this?",
+        "yes": "Got it, that’s cool.",
+        "no": "Forget it, not important."
+      },
+      {
+        "description": "📶 Transparent dishes on roofs are Brazilian style. Keep or toss?",
+        "yes": "Keep it, unique fact.",
+        "no": "Toss it, don’t care."
+      }
+    ]
+  },
+  {
+    "image": "watertanks.png",
+    "descriptions": [
+      {
+        "description": "💧 Blue Fortlev water tanks often chill on roofs in Brazil. You spotted those?",
+        "yes": "Yup, seen that plenty.",
+        "no": "Nope, missed those."
+      },
+      {
+        "description": "🏠 Blue water tanks on roofs? Brazil classic. Remember this?",
+        "yes": "Got it, easy to spot.",
+        "no": "Forget it, not important."
+      },
+      {
+        "description": "🚰 Blue Fortlev tanks = Brazilian rooftop thing. Keep or toss?",
+        "yes": "Keep it, cool detail.",
+        "no": "Toss it, don’t care."
+      }
+    ]
+  }
+]
