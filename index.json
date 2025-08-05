@@ -1,3 +1,10 @@
 {
-  "south_america": ["Brazil"]
+  "brazil": {
+    "continent": "south_america",
+    "label": "🇧🇷 Brazil"
+  },
+  "argentina": {
+    "continent": "south_america",
+    "label": "🇦🇷 Argentina"
+  }
 }
