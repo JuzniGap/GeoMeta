@@ -6,5 +6,9 @@
   "argentina": {
     "continent": "south_america",
     "label": "🇦🇷 Argentina"
+  },
+  "bolivia": {
+    "continent": "south_america",
+    "label": "🇧🇴 Bolivia"
   }
 }
