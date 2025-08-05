@@ -3,19 +3,19 @@
     "image": "Brazil_License_Plate.png",
     "descriptions": [
       {
-        "description": "🚗 Brazil’s license plates were plain white till 2018. Now they rock a white plate with a blue stripe on top. Red ones? For working rides only. You got this?",
-        "yes": "Yep! Plate facts locked in.",
-        "no": "Wait, red means work? Whoa."
+        "description": "Brazil switched up their license plates in 2018 — white with a slick blue stripe on top. Red plates? Those are the workhorses, aka commercial vehicles. 🚗",
+        "yes": "Caught that blue stripe like a boss 😎",
+        "no": "I thought the red ones were just for show-offs 🤡"
       },
       {
-        "description": "🔵 Blue stripe on white plates = Brazil. Red plates mean busy vehicles. Remember or forget?",
-        "yes": "Remember for sure!",
-        "no": "Forget, my brain’s full."
+        "description": "Old school Brazil had plain white plates. Now? They flex with a blue stripe, while red’s for the hustle rides. 🔥",
+        "yes": "Blue stripe? Nailed the hustle vibes 💪",
+        "no": "Missed it like a missed Uber 😴"
       },
       {
-        "description": "🚘 White plates got a glow-up with a blue stripe. Red ones? Hustler’s badge. You keep or toss this?",
-        "yes": "Keep it, red means hustle!",
-        "no": "Tossed. Too much info."
+        "description": "White plates with blue bars? That’s modern Brazil. Red plates? Those trucks mean business. 🚛",
+        "yes": "Spotted those plates like a pro 👀",
+        "no": "Thought red plates were just fancy hats 🎩"
       }
     ]
   },
@@ -23,39 +23,59 @@
     "image": "Portuguese.png",
     "descriptions": [
       {
-        "description": "🇧🇷 Brazil talks Portuguese, not Spanish. It’s -ão, not -ón, and -nh, not ñ. You got this or nah?",
-        "yes": "Yup! Portuguese all the way.",
-        "no": "Wait, not Spanish? Whoa!"
+        "description": "Portuguese runs the show in Brazil, not Spanish. Watch out for funky endings like -ão instead of -ón and sounds like -nh swapping in for -ñ. 🇧🇷🗣️",
+        "yes": "Spotted that Portuguese flair from a mile away 🤓",
+        "no": "Thought everyone just spoke Spanish with a twist 🤷‍♂️"
       },
       {
-        "description": "🗣️ In Brazil, it’s -ão instead of -ón. They say -ch, not -ll. Portuguese rules here. You remember this?",
-        "yes": "For sure, got it!",
-        "no": "Nope, brain’s empty."
+        "description": "Brazil’s language flex? Portuguese, not Spanish. Those -ão endings and -ch sounds are your clues. 👅",
+        "yes": "Language detective level: unlocked 🕵️‍♂️",
+        "no": "Confused Portuguese with Spanish? Happens to the best 😅"
       },
       {
-        "description": "🌍 Most of Latin America speaks Spanish. Brazil? Portuguese, with its cool -ão and -nh endings. Stuck in your head?",
-        "yes": "Yep! That’s easy to remember.",
-        "no": "Uh, I’m lost already."
+        "description": "It’s Portuguese in Brazil, with quirky sound swaps — think -nh not -ñ, and -ch instead of -ll. 🎤",
+        "yes": "Heard those words and instantly knew the turf 🧠",
+        "no": "Missed the language memo, oops 🤦‍♂️"
       }
     ]
   },
   {
-    "image": "ladders.png",
+    "image": "soil.png",
     "descriptions": [
       {
-        "description": "🪜 See a pole that looks like a ladder? That’s Brazil’s style. You got it?",
-        "yes": "Yeah, can’t miss it now.",
-        "no": "What pole? Didn’t see it."
+        "description": "Brazil’s soil comes in shades of red — from light pinks near Mato Grosso to deep maroon down by Paraná river. 🌎❤️",
+        "yes": "Red soil? I’m basically dirt certified 💯",
+        "no": "Thought it was just a fancy paint job 🎨"
       },
       {
-        "description": "📏 Tall, rectangle poles with holes and ladder vibes = Brazil. Cool or nah? You’ll remember?",
-        "yes": "Yes! Weird poles are cool.",
-        "no": "Poles all look the same to me."
+        "description": "Look down — Brazil’s ground is rocking reds like no other, unless you’re near the Northeast or Rio Grande do Sul. 🔥",
+        "yes": "Soil spotting? Easy peasy 🍃",
+        "no": "Soil? I was too busy staring at the sky ☁️"
       },
       {
-        "description": "👀 Ladder poles are a classic in Brazil. Spot them down low. You’ll notice?",
-        "yes": "Yep, stuck in my mind.",
-        "no": "Nope, poles are poles."
+        "description": "From pinkish hues to deep maroon, Brazil’s soil is basically nature’s red carpet. 🌹",
+        "yes": "Red earth recognized. Nailed it ✅",
+        "no": "Soil colors blurred together. My bad 😵"
+      }
+    ]
+  },
+  {
+    "image": "ladder.png",
+    "descriptions": [
+      {
+        "description": "Brazilian poles look like ladders at the bottom — rectangular with long rungs and tiny holes near the top. 🪜",
+        "yes": "Saw those poles and felt like a local ladder expert 💡",
+        "no": "Poles looked like random sticks to me 🤡"
+      },
+      {
+        "description": "If the pole’s bottom reminds you of a ladder, you’re probably in Brazil. Bonus points for small holes near the top. 🕵️‍♀️",
+        "yes": "That ladder-pole vibe was on point 🎯",
+        "no": "Thought poles were just regular poles, no biggie 😬"
+      },
+      {
+        "description": "Ladders disguised as poles? Yup, that’s Brazilian street style. 🔥",
+        "yes": "Spotted the ladder poles like a champ 🏆",
+        "no": "Missed it, got distracted by a bird 🐦"
       }
     ]
   },
@@ -63,19 +83,19 @@
     "image": "Black+sign+back.png",
     "descriptions": [
       {
-        "description": "⚫ Most Brazilian road signs got black painted backs. Not the usual, huh? You see this or nah?",
-        "yes": "Yeah, noticed that for sure.",
-        "no": "Nope, didn’t catch that."
+        "description": "Most Brazilian road signs keep it classy with black-painted backs. 🛑🖤",
+        "yes": "Black backs? Noticed that smooth style 😎",
+        "no": "Didn’t even check the backs. Rookie move 🤦‍♂️"
       },
       {
-        "description": "🛑 Back of signs = black in Brazil. Weird flex? Remember or forget?",
-        "yes": "Remember it easy.",
-        "no": "Forget, no big deal."
+        "description": "Peek behind the sign — if it’s black, welcome to Brazil. 👀",
+        "yes": "Saw that black backing like a pro 🕵️‍♂️",
+        "no": "Back of signs? I don’t live on the edge like that 😅"
       },
       {
-        "description": "🚧 Sign backs painted black is Brazil’s thing. You keep this detail?",
-        "yes": "Yep, keep it in mind.",
-        "no": "Nah, that’s forgettable."
+        "description": "Brazilian signs got that black-back vibe going strong. 🖤",
+        "yes": "Caught the black backs, respect 🙌",
+        "no": "Back of signs? Was busy checking the front, duh 🤪"
       }
     ]
   },
@@ -83,19 +103,19 @@
     "image": "blue.png",
     "descriptions": [
       {
-        "description": "🔵 Blue road markers with numbers and kilometres show up on Brazil’s roadsides. You spot those or nah?",
-        "yes": "Yup, seen them plenty.",
-        "no": "Nope, missed those."
+        "description": "Blue road markers with numbers and km info line Brazil’s streets. 🛣️🔵",
+        "yes": "Blue markers lit up my map brain 💡",
+        "no": "Road markers? Didn’t even notice 👀"
       },
       {
-        "description": "🛣️ Blue signs with road numbers and kms are a Brazil thing. Remember this detail?",
-        "yes": "Got it, easy to spot.",
-        "no": "Forget it, not important."
+        "description": "Spot those blue km markers? You’re cruising Brazil’s roads. 🚗💨",
+        "yes": "Blue strip? Nailed that clue 🎯",
+        "no": "Road numbers? My brain went on a coffee break ☕"
       },
       {
-        "description": "🚦 Blue markers on road edges with numbers? That’s Brazil. Keep or toss?",
-        "yes": "Keep it, cool detail.",
-        "no": "Toss it, don’t care."
+        "description": "Brazil’s roads got blue markers showing the way — or at least trying to. 🛤️",
+        "yes": "Blue markers are my new best friends 🤝",
+        "no": "Missed those signs like a blindfolded bat 🦇"
       }
     ]
   },
@@ -103,19 +123,19 @@
     "image": "Untitled_design32.png",
     "descriptions": [
       {
-        "description": "⬛ Brazil uses yellow on black chevrons — opposite to most South America who do black on yellow. You see the difference?",
-        "yes": "Yep, noticed that switch.",
-        "no": "No, that’s new info."
+        "description": "Brazil rocks yellow-on-black chevrons, flipping the usual South American script. ⚠️🖤💛",
+        "yes": "Saw those chevrons and thought, ‘That’s Brazil energy.’ 🔥",
+        "no": "Thought those chevrons were just fancy road doodles 🤡"
       },
       {
-        "description": "⚠️ Yellow on black chevrons are Brazil’s style. Weird flip, right? Remember this?",
-        "yes": "For sure, it sticks.",
-        "no": "Forget, looks the same."
+        "description": "While others use black-on-yellow, Brazil’s chevrons go bold with yellow-on-black. 😎",
+        "yes": "Chevrons spotted, color game strong 💪",
+        "no": "Colors blended like a bad paint spill for me 🎨"
       },
       {
-        "description": "🚧 Brazil’s chevrons = yellow on black, not black on yellow like others. You keep or toss?",
-        "yes": "Keep it, that’s cool.",
-        "no": "Tossed, don’t care much."
+        "description": "Yellow on black chevrons? That’s Brazil’s signature move on the roads. 👊",
+        "yes": "Spotted the vibe loud and clear 📣",
+        "no": "Chevrons? Nah, just stripes in my eyes 🙈"
       }
     ]
   },
@@ -123,19 +143,19 @@
     "image": "doubleyellow.png",
     "descriptions": [
       {
-        "description": "🛣️ Roads in Brazil usually have double yellow lines in the middle and white lines outside. Sometimes just a single dashed yellow. You got this?",
-        "yes": "Yup, double yellows noted.",
-        "no": "Nope, missed that."
+        "description": "Brazil’s roads usually sport double yellow middle lines and white outer lines. Sometimes a single dashed yellow sneaks in. 🛣️💛💛",
+        "yes": "Double yellows got me feeling safe and sound 🛡️",
+        "no": "Road lines? I was too busy daydreaming ☁️"
       },
       {
-        "description": "🚧 Double yellow lines = Brazil roads. White on the edges. Single dashed sometimes too. Remember this?",
-        "yes": "Remembered, easy.",
-        "no": "Forget it, no biggie."
+        "description": "Two yellows in the middle, white on the edges — that’s Brazil’s traffic dance. 💃🕺",
+        "yes": "Road line game: expert level 🎯",
+        "no": "Missed those lines like a lost tourist 🧭"
       },
       {
-        "description": "🟡 Yellow lines in pairs are Brazil’s road thing. White edges outside. You keep or toss this?",
-        "yes": "Keep it, simple and clear.",
-        "no": "Tossed, don’t care."
+        "description": "Double yellow lines mean business on Brazil’s streets, with white framing the edges. 🛤️",
+        "yes": "Noticed those lines, smooth operator 😎",
+        "no": "I thought the road was just abstract art 🎨"
       }
     ]
   },
@@ -143,19 +163,19 @@
     "image": "whitekerbs.png",
     "descriptions": [
       {
-        "description": "⚪ White painted kerbs show up a lot on Brazilian roads. You noticed that?",
-        "yes": "Yeah, seen that plenty.",
-        "no": "No, didn’t catch it."
+        "description": "White painted kerbs? Brazil’s roads wear them like a style accessory. ⚪🚧",
+        "yes": "White kerbs spotted, streets looking sharp 👌",
+        "no": "Kerbs? Didn’t even clock them 👀"
       },
       {
-        "description": "🛣️ White kerbs are common in Brazil. Remember this detail?",
-        "yes": "Got it, easy to spot.",
-        "no": "Forget it, not important."
+        "description": "Brazil loves its white kerbs — they’re basically street jewelry. 💎",
+        "yes": "Caught those kerbs shining bright ✨",
+        "no": "Kerbs were like invisible ninjas to me 🥷"
       },
       {
-        "description": "🚧 White painted kerbs are Brazil’s thing. Keep or toss?",
-        "yes": "Keep it, cool detail.",
-        "no": "Toss it, don’t care."
+        "description": "Keep an eye out for white kerbs on Brazilian streets — subtle but telling. 👀",
+        "yes": "White kerbs noticed. Stylish and smart 🧠",
+        "no": "Missed those kerbs like a lost sock 🧦"
       }
     ]
   },
@@ -163,19 +183,19 @@
     "image": "redtile.png",
     "descriptions": [
       {
-        "description": "🏠 Lots of Brazilian houses have orange tiled roofs. You got this roof style down?",
-        "yes": "Yup, orange roofs locked in.",
-        "no": "Nope, didn’t notice."
+        "description": "Orange tiled roofs are all over Brazil — a rooftop party in every neighborhood. 🏠🎉",
+        "yes": "Those roofs had me saying ‘Casa, por favor!’ 🏡",
+        "no": "Roofs? I was too busy looking up at the clouds ☁️"
       },
       {
-        "description": "🏡 Orange roof tiles are a Brazil classic. Remember this or nah?",
-        "yes": "For sure, easy to spot.",
-        "no": "Nah, forgot already."
+        "description": "Spot the orange tiles on rooftops — Brazil’s colorful signature. 🧡",
+        "yes": "Caught those tiles like a roof ninja 🥷",
+        "no": "Missed the roofs, got distracted by a bird 🐦"
       },
       {
-        "description": "🧱 Orange tiles on roofs? Brazilian vibe. Keep or toss?",
-        "yes": "Keep it, cool detail.",
-        "no": "Tossed, don’t care."
+        "description": "Brazilian homes love their orange tiled hats — rooftops with flair. 🎩",
+        "yes": "Roof game strong, spotted those tiles 💪",
+        "no": "Roofs were just background noise to me 🙉"
       }
     ]
   },
@@ -183,19 +203,19 @@
     "image": "transparentdish.png",
     "descriptions": [
       {
-        "description": "📡 Transparent satellite dishes are pretty common in Brazil — kinda unique in Latin America. You noticed this?",
-        "yes": "Yeah, that’s pretty wild.",
-        "no": "Nope, never seen that."
+        "description": "Transparent satellite dishes? Only Brazil rocks that futuristic look in Latin America. 🛰️✨",
+        "yes": "Saw that clear dish like a tech wizard 🧙‍♂️",
+        "no": "Thought it was just a fancy frisbee 🥏"
       },
       {
-        "description": "🛰️ Clear satellite dishes? Brazil’s thing, not usual in Latin America. Remember this?",
-        "yes": "Got it, that’s cool.",
-        "no": "Forget it, not important."
+        "description": "If you spot a see-through satellite dish, you’re def in Brazil’s tech zone. 💻",
+        "yes": "Caught the transparency flex, nice 👌",
+        "no": "Missed it, thought it was invisible 👻"
       },
       {
-        "description": "📶 Transparent dishes on roofs are Brazilian style. Keep or toss?",
-        "yes": "Keep it, unique fact.",
-        "no": "Toss it, don’t care."
+        "description": "Brazil’s got that see-through dish game on lock. Futuristic vibes only. 🤖",
+        "yes": "Transparent tech spotted. Level up! 🔝",
+        "no": "Dish? I thought it was a window to another dimension 🌌"
       }
     ]
   },
@@ -203,19 +223,79 @@
     "image": "watertanks.png",
     "descriptions": [
       {
-        "description": "💧 Blue Fortlev water tanks often chill on roofs in Brazil. You spotted those?",
-        "yes": "Yup, seen that plenty.",
-        "no": "Nope, missed those."
+        "description": "Blue Fortlev water tanks top Brazilian roofs like urban crowns. 👑💧",
+        "yes": "Spotted those tanks like a thirsty detective 🕵️‍♂️",
+        "no": "Water tanks? I was too busy hydrating myself 🥤"
       },
       {
-        "description": "🏠 Blue water tanks on roofs? Brazil classic. Remember this?",
-        "yes": "Got it, easy to spot.",
-        "no": "Forget it, not important."
+        "description": "Blue water tanks = Brazil’s rooftop signature accessory. 🔵🏠",
+        "yes": "Caught those blue crowns with eagle eyes 👁️",
+        "no": "Missed the tanks, guess I was dehydrated 🥴"
       },
       {
-        "description": "🚰 Blue Fortlev tanks = Brazilian rooftop thing. Keep or toss?",
-        "yes": "Keep it, cool detail.",
-        "no": "Toss it, don’t care."
+        "description": "If it’s a blue Fortlev tank on the roof, you’re definitely in Brazil. 🇧🇷",
+        "yes": "Water tanks recognized, nailed it 🎯",
+        "no": "Tanks? I thought those were mini swimming pools 🏊‍♂️"
+      }
+    ]
+  },
+  {
+    "image": "gen3.png",
+    "descriptions": [
+      {
+        "description": "Gen 3 Brazil has white cars with stubby antennas—some even have a diagonal coil wrapping. Sometimes just the antenna shows, no car in sight. 🚗📡",
+        "yes": "Spotted those antennas like a pro signal hunter 🎯",
+        "no": "Missed the stubby antennas, got distracted by birds 🐦"
+      },
+      {
+        "description": "White Gen 3 cars with stubby antennas and coils? Brazil flexin’ in the coverage game. 🔥",
+        "yes": "Caught the signal vibes loud and clear 📶",
+        "no": "Antennas? I was on a snack break 🍪"
+      },
+      {
+        "description": "Sometimes you just get a stubby antenna or nothing — welcome to Brazil’s Gen 3 stealth mode. 🕵️‍♂️",
+        "yes": "Saw those subtle clues, nice catch 👌",
+        "no": "Missed those sneaky antennas like a rookie 😅"
+      }
+    ]
+  },
+  {
+    "image": "gen4.png",
+    "descriptions": [
+      {
+        "description": "Brazil’s Gen 4 cars come in blue, white with a blue stripe, or plain white — all ready to roll. 🚙💨",
+        "yes": "Gen 4 cars? I see you, Brazil vibes 👀",
+        "no": "Cars? I was too busy zoning out 😴"
+      },
+      {
+        "description": "Spot blue, white+blue stripe, or white cars? Brazil’s Gen 4 making moves. 🏎️",
+        "yes": "Caught those cars like a champ 🏆",
+        "no": "Missed those rides, daydreaming got me again 💭"
+      },
+      {
+        "description": "Gen 4 coverage means Brazil’s streets got style in these three colors. 🎨",
+        "yes": "Recognized those cars and flexed 💪",
+        "no": "Cars blended into the background for me 🙈"
+      }
+    ]
+  },
+  {
+    "image": "Smallcam+Brazil",
+    "descriptions": [
+      {
+        "description": "Brazil and Peru roll with Gen 4 smallcam coverage — camera mounted lower with a big blur and a little front bump. 📸🔵",
+        "yes": "Caught the smallcam like a stealth ninja 🥷",
+        "no": "Missed the smallcam, was too busy blinking 😵"
+      },
+      {
+        "description": "Smallcam coverage’s unique to Brazil and Peru — lower mounts and a big blur with a tiny front nub. 👁️‍🗨️",
+        "yes": "Spotted that blur bump, nice one 👌",
+        "no": "Smallcam? Thought it was just a weird lens flare 🤨"
+      },
+      {
+        "description": "If you see a low-mounted camera with a circular blur and a little nub, welcome to Brazil or Peru’s turf. 🌎",
+        "yes": "Caught the smallcam vibes, nailed it 🎯",
+        "no": "Missed that cam, guess I’m not a ninja today 🥴"
       }
     ]
   }
