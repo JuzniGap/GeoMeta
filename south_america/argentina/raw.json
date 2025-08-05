@@ -18,5 +18,21 @@
   {
     "image": "ar_chevron.png",
     "description": "Argentina typically uses white-and-red chevrons.\n\nNOTE: Argentina is the only American country with these chevrons."
+  },
+  {
+    "image": "Argentina+roadlines.png",
+    "description": "Road lines in Argentina are mainly dashed white, double yellow or a mix in between."
+  },
+  {
+    "image": "kmmarker.png",
+    "description": "Argentinian kilometre markers are typically white with a black strip displaying the road number at the top.NOTE: The markers on national highways are indicated with RN, while RP indicates a provincial highway. National highways will be labelled white on the map, while provincial highways will be labelled green. "
+  },
+  {
+    "image": "Copy+of+Copy+of+Untitled(6).png",
+    "description": "Yellow and red rectangular reflectors can often be seen on Argentinian guardrails. NOTE: Within South America, they can also be found in Uruguay. However, Uruguayan guardrails can be differentiated from Argentinian guardrails by the shape of their support."
+  },
+  {
+    "image": "Argentina+Barren+landscape.png",
+    "description": "While Argentina features a plethora of different landscapes, most of the country is relatively flat, mostly treeless, and sparsely populated. In the absence of better clues, you should consider Argentina when you see landscapes like this with a very “wide open”, desolate feel."
   }
 ]

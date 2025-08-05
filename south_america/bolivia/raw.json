@@ -1,0 +1,66 @@
+[
+  {
+    "image": "1_licenceplate.png",
+    "description": "Bolivia has short, white licence plates with blue text. The blue text can be hard to see through the blur, so plates might appear as plain white."
+  },
+  {
+    "image": "1_googlecar",
+    "description": "Bolivia only has Generation 3 camera coverage. All of the country was covered by a white Google car with no antenna. NOTE: In Latin America, white cars with no antenna can also be found in Peru and Chile."
+  },
+  {
+    "image": "1_redbrick.png",
+    "description": "Many buildings in Bolivia consist of large red bricks. Buildings often have an ‘unfinished' look. NOTE: This style of architecture is also common in parts of Peru."
+  },
+  {
+    "image": "1_roadlines.png",
+    "description": "Middle road lines can be all-yellow, yellow and white, or all-white, while outer road lines are always white.NOTE: Road lines in Chile are always all-white or all-yellow, never a combination of the two. In Peru, you can find roads having outer lines with no middle line. Such outer line-only roads are very rare in Bolivia."
+  },
+  {
+    "image": "1_concreteroads.png",
+    "description": "Bolivia has a lot of standard asphalt roads, but concrete slab roads are also fairly common."
+  },
+  {
+    "image": "1_cobblestoneroad.png",
+    "description": "There are also a lot of cobblestone roads. These roads often have a specific pattern, with several neat lines of stones separating the more disorganised cobblestones in between"
+  },
+  {
+    "image": "1_signpost.png",
+    "description": "Bolivia typically uses bulky, white square signposts.NOTE: Peru typically uses black and white striped “zebra” signposts."
+  },
+  {
+    "image": "1_guardrailmarking.png",
+    "description": "Guardrails sometimes feature yellow and black markings. These markings always have the yellow stripes on the outside.NOTE: Peru has similar markings. However, in Peru, the markings have the inverse colour scheme: the black stripes are always on the outside."
+  },
+  {
+    "image": "1_poles.png",
+    "description": "Two types of utility poles are common in Bolivia:1.) Round concrete poles, often with small pinholes near the top.2.) Wooden poles. Poles in Bolivia are very inconsistent and should not be relied on too much. Poles can have a variety of pole tops. On rare occasions, you can find Argentina-style concrete poles."
+  },
+  {
+    "image": "1_scuffedpole.png",
+    "description": "Many wooden utility poles, particularly in the eastern parts of Bolivia’s Street View coverage, are noticeably curvy and look like they are made from locally sourced tree trunks.NOTE: While you may see slightly bent poles in other places, extremely curvy poles are a very good clue for Bolivia."
+  },
+  {
+    "image": "1_kmmarker.png",
+    "description": "Kilometre markers are black and white. The top part is black and features the abbreviation ‘Km’, while the bottom part is white and shows the distance. These markers do not have road numbers. NOTE: They can look somewhat similar to Argentinian road markers, especially from a distance. The main difference is that the markers in Argentina feature a road number."
+  },
+  {
+    "image": "1_clothes.png",
+    "description": "Many Bolivians wear traditional clothing, especially women. Folk dress for women typically consists of bowler hats, colourful shawls, and big pleated skirts (pollera).NOTE: Similar folk dress can sometimes be found in parts of Peru, especially those close to Bolivia."
+  },
+  {
+    "image": "1_MASandEVO.png",
+    "description": "Bolivia’s ruling political party is called Movimiento al Socialismo (MAS). Political graffiti often features the words MAS and Evo, short for Evo Morales, who was president of Bolivia at the time the country was covered by Street View.Additionally, many random objects are painted in the party’s colours: black, white, and a large blue field. This distinctive colour scheme is a good clue for Bolivia."
+  },
+  {
+    "image": "1_wiphala.png",
+    "description": "Bolivia has a second official flag, called the Wiphala. It is a square patchwork of seven diagonally arranged colours. It is sometimes seen on government buildings and project signs."
+  },
+  {
+    "image": "1_tigo.png",
+    "description": "In urban areas, you will often see ads for the telecom company Tigo, with its distinct blue logo. Crucially, this company does not operate in Peru, meaning it can help you solve urban 50-50s.NOTE: This company does operate in several other Latin American countries, so only use this tip to differentiate between Peru and Bolivia."
+  },
+  {
+    "image": "1_redrocks.png",
+    "description": "If all else fails, and you have a tough 50-50, it can help to look at the colour of the rocks and soil, which often have a distinct reddish tint in Bolivia, more so than the other Andean countries.This information should be used with a fair amount of caution, as there are many variables. Only use it when you have no other clues available."
+  }
+]
