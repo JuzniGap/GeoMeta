@@ -1,17 +1,14 @@
 {
-  "brazil": {
-    "continent": "south_america",
-    "label": "Brazil",
+  "Brazil": {
+    "continent": "south_america",    
     "flag": "🇧🇷",
   },
-  "argentina": {
-    "continent": "south_america",
-    "label": "Argentina",
+  "Argentina": {
+    "continent": "south_america",   
     "flag": "🇦🇷",
   },
-  "bolivia": {
-    "continent": "south_america",
-    "label": "Bolivia",
+  "Bolivia": {
+    "continent": "south_america", 
     "flag": "🇧🇴",
   }
 }
